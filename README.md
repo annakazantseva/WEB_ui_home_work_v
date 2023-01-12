@@ -4,5 +4,7 @@
   
 python -m venv venv  
 source venv/bin/activate  
-pip install flask   
+pip install flask 
+python >> import flask  
+exit()  
 flask run  
