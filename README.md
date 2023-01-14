@@ -2,8 +2,7 @@
 Разработка пользовательского интерфейса. Домашнее задание 2  
 ## Запуск  
   
-python -m venv venv  
-source venv/bin/activate  
+virtualenv venv   
 pip install flask   
 python >> import flask  
 exit()  
